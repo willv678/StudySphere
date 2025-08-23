@@ -32,7 +32,7 @@ A full-stack, real-time collaboration platform designed to help University of Ge
 ### Prerequisites
 - [Docker](https://www.docker.com/get-started)
 - [Node.js](https://nodejs.org/en/download/)
-- [Python 3.x](https://www.python.org/downloads/)
+- [Python 3.12+](https://www.python.org/downloads/)
 
 ### Installation
 1.  **Clone the repository:**
